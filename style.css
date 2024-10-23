@@ -1,0 +1,21 @@
+main {background-color: indianred ;
+margin-left: 40%;
+margin-right: 25%;
+
+}
+header {font-size: 150%;
+color: crimson;
+margin-left: 40%;
+margin-right: 25%;
+border-color: coral;
+border-left: 6px;
+border-style: dotted;
+
+}
+footer {background-color: darksalmon;
+margin-left: 40%;
+margin-right: 20%;
+border-color: lightcoral;
+border-left: 6px;
+border-style: dotted;
+}
